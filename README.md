@@ -55,11 +55,3 @@ console.log(Brtools.values.formatToReal(100));
 | Parameters | Type     | Default | Notes |
 | ---------- | -------- | ------- | ----- |
 | `cnpj`     | `string` |         |       |
-
-## email
-
-### validate()
-
-| Parameters | Type     | Default | Notes |
-| ---------- | -------- | ------- | ----- |
-| `email`    | `string` |         |       |
